@@ -1,0 +1,46 @@
+<RCC>
+  <qresource prefix="文件扩展">
+    <file>Dh1.ico</file>
+    <file>Dh2.ico</file>
+    <file>Dh3.ico</file>
+    <file>Dh4.ico</file>
+    <file>Dh5.ico</file>
+    <file>Dh6.ico</file>
+    <file>Dh7.ico</file>
+    <file>Dh8.ico</file>
+    <file>Dh9.ico</file>
+    <file>Dh10.ico</file>
+    <file>Dh11.ico</file>
+    <file>Dh12.ico</file>
+    <file>Dh13.ico</file>
+    <file>Dh14.ico</file>
+    <file>Dh15.ico</file>
+    <file>Dh16.ico</file>
+    <file>Dh17.ico</file>
+    <file>Dh18.ico</file>
+    <file>Dh19.ico</file>
+    <file>Dh20.ico</file>
+    <file>Dh21.ico</file>
+  </qresource>
+  <qresource prefix="文件扩展1">
+    <file>f1.ico</file>
+    <file>f2.ico</file>
+    <file>f3.ico</file>
+    <file>f4.ico</file>
+    <file>f5.ico</file>
+    <file>f6.ico</file>
+    <file>f7.ico</file>
+    <file>f8.ico</file>
+    <file>f9.ico</file>
+    <file>f10.ico</file>
+    <file>f11.ico</file>
+    <file>f12.ico</file>
+    <file>f13.ico</file>
+    <file>f14.ico</file>
+    <file>f15.ico</file>
+    <file>f16.ico</file>
+    <file>f17.ico</file>
+    <file>f18.ico</file>
+    <file>f19.ico</file>
+  </qresource>
+</RCC>

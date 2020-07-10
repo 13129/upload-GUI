@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="005">
+    <file>Ai1.ico</file>
+    <file>Ai2.ico</file>
+    <file>Ai3.ico</file>
+    <file>Ai4.ico</file>
+    <file>Ai5.ico</file>
+    <file>Ai6.ico</file>
+    <file>Ai7.ico</file>
+    <file>Ai8.ico</file>
+    <file>Ai9.ico</file>
+    <file>Ai10.ico</file>
+    <file>Ai11.ico</file>
+    <file>Ai12.ico</file>
+    <file>Ai13.ico</file>
+    <file>Ai14.ico</file>
+    <file>Ai15.ico</file>
+    <file>Ai16.ico</file>
+    <file>Ai17.ico</file>
+    <file>Ai18.ico</file>
+    <file>Ai19.ico</file>
+    <file>Ai20.ico</file>
+    <file>Ai21.ico</file>
+    <file>Ai22.ico</file>
+    <file>Ai23.ico</file>
+    <file>Ai24.ico</file>
+    <file>Ai25.ico</file>
+    <file>Ai26.ico</file>
+    <file>Ai27.ico</file>
+  </qresource>
+</RCC>

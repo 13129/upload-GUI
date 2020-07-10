@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="other">
+    <file>Aw1.ico</file>
+    <file>Aw2.ico</file>
+    <file>Aw3.ico</file>
+    <file>Aw4.ico</file>
+    <file>Aw5.ico</file>
+    <file>Aw6.ico</file>
+    <file>Aw7.ico</file>
+    <file>Aw8.ico</file>
+    <file>Aw9.ico</file>
+    <file>Aw10.ico</file>
+    <file>Aw11.ico</file>
+    <file>Aw12.ico</file>
+    <file>Aw13.ico</file>
+    <file>Aw14.ico</file>
+    <file>Aw15.ico</file>
+    <file>Aw16.ico</file>
+    <file>Aw17.ico</file>
+    <file>Aw18.ico</file>
+    <file>Aw19.ico</file>
+    <file>Aw20.ico</file>
+    <file>Aw21.ico</file>
+    <file>Aw22.ico</file>
+  </qresource>
+</RCC>

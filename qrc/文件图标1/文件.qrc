@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="002">
+    <file>001.png</file>
+    <file>002.png</file>
+    <file>003.png</file>
+    <file>Cdd1.ico</file>
+    <file>Cdd2.ico</file>
+    <file>Cdd3.ico</file>
+    <file>Cdd4.ico</file>
+    <file>Cdd5.ico</file>
+    <file>Cdd6.ico</file>
+    <file>Cdd7.ico</file>
+    <file>Cdd8.ico</file>
+    <file>Cdd9.ico</file>
+    <file>Cdd10.ico</file>
+    <file>Cdd11.ico</file>
+    <file>Cdd12.ico</file>
+    <file>Cdd13.ico</file>
+    <file>Cdd14.ico</file>
+    <file>Cdd15.ico</file>
+    <file>Cdd16.ico</file>
+    <file>001.png</file>
+    <file>002.png</file>
+    <file>003.png</file>
+    <file>Cdd1.ico</file>
+    <file>Cdd2.ico</file>
+    <file>Cdd16.ico</file>
+  </qresource>
+</RCC>

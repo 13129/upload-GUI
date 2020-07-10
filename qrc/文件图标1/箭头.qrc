@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="003">
+    <file>j1.ico</file>
+    <file>j2.ico</file>
+    <file>j3.ico</file>
+    <file>j4.ico</file>
+    <file>j5.ico</file>
+    <file>j6.ico</file>
+    <file>j7.ico</file>
+    <file>j8.ico</file>
+    <file>j9.ico</file>
+    <file>j10.ico</file>
+    <file>j11.ico</file>
+    <file>j12.ico</file>
+    <file>j13.ico</file>
+    <file>j14.ico</file>
+    <file>j15.ico</file>
+    <file>j16.ico</file>
+    <file>j17.ico</file>
+    <file>j18.ico</file>
+    <file>j19.ico</file>
+    <file>j20.ico</file>
+    <file>j21.ico</file>
+    <file>j22.ico</file>
+    <file>j23.ico</file>
+    <file>j24.ico</file>
+    <file>j25.ico</file>
+    <file>j26.ico</file>
+    <file>j27.ico</file>
+    <file>j28.ico</file>
+    <file>j29.ico</file>
+    <file>j30.ico</file>
+  </qresource>
+</RCC>
